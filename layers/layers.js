@@ -160,7 +160,7 @@ var lyr_Mittelpunkt_10 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_Mittelpunkt_10, 
                 style: style_Mittelpunkt_10,
-                popuplayertitle: 'Mittelpunkt',
+                popuplayertitle: 'Mittelpunkt der Gemeinde Graun',
                 interactive: false,
                 title: '<img src="styles/legend/Mittelpunkt_10.png" /> Mittelpunkt der Gemeinde Graun'
             });
