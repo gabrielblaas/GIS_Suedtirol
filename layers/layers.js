@@ -162,7 +162,7 @@ var lyr_Mittelpunkt_10 = new ol.layer.Vector({
                 style: style_Mittelpunkt_10,
                 popuplayertitle: 'Mittelpunkt',
                 interactive: false,
-                title: '<img src="styles/legend/Mittelpunkt_10.png" /> Mittelpunkt'
+                title: '<img src="styles/legend/Mittelpunkt_10.png" /> Mittelpunkt der Gemeinde Graun'
             });
 var group_Kraftwerke = new ol.layer.Group({
                                 layers: [lyr_Flsse_5,lyr_Seen_6,lyr_Fernheizwerke_7,lyr_Druckstollen_8,lyr_Krafthuser_9,],
